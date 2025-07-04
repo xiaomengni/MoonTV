@@ -73,10 +73,6 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
-        "gayzy": {
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "name": "快播资源"
-    },
         "jyzy": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源"
